@@ -1,4 +1,4 @@
-# Pipeline-ETL-de-inversi-n-p-blica-regional-Piura-Python-pandas-
+# Pipeline-ETL-de-inversion-publica-regional-Piura-Python-pandas-
 
 
 Proyecto del curso Laboratorio de Programación: R y Python (PUCP)
