@@ -1,0 +1,4 @@
+requests
+pandas>=2.0
+numpy
+pyarrow
